@@ -1,1 +1,2 @@
-# #Exploratory-Data-Analysis--project1, The Data Scientist’s Toolbox by Johns Hopkins University on Coursera.
+# 
+This project is from Exploratory Data Analysis- Course 4 of 10 in the Data Science Specialization
